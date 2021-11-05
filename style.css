@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #1F2937;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.awesome {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+
+}
+
+.second {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.action {
+    background-color: #3882F6;
+}
